@@ -1,4 +1,3 @@
-# Assignment_1
 # Project 1 - *Flix App*
 
 **Flix App** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
