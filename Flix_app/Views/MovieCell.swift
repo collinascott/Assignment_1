@@ -2,7 +2,7 @@
 //  MovieCell.swift
 //  Flix_app
 //
-//  Created by Imani P. on 3/5/18.
+//  Created by Collin S. on 3/5/18.
 //  Copyright © 2018 Collin Scott. All rights reserved.
 //
 
