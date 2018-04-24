@@ -151,7 +151,6 @@
 				8F5765282058C10A001610B3 /* ViewControllers */,
 				8F476B99204CFC2C003DE474 /* AppDelegate.swift */,
 				8F476B9D204CFC2C003DE474 /* Main.storyboard */,
-				8F90E169205A777A003DD9F8 /* PosterCell.swift */,
 				8F476BA0204CFC2C003DE474 /* Assets.xcassets */,
 				8F476BA2204CFC2C003DE474 /* LaunchScreen.storyboard */,
 				8F476BA5204CFC2C003DE474 /* Info.plist */,
@@ -192,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				8F476BCB204DEA05003DE474 /* MovieCell.swift */,
+				8F90E169205A777A003DD9F8 /* PosterCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
